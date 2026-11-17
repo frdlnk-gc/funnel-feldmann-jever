@@ -1,0 +1,39 @@
+[
+ {
+  "logo": "logo-hd.png",
+  "primary": "#20333A",
+  "headline": [
+   "Straßenbauer",
+   "(m/w/d)"
+  ],
+  "name": "V02-wir-suchen",
+  "foto": "raw/s6.jpg",
+  "panel": "top",
+  "panel_hoehe": 0.56,
+  "fokus": [
+   0.5,
+   0.55
+  ],
+  "kicker": "WIR SUCHEN IN JEVER",
+  "subline": "Unbefristet – mit kurzem Freitag und ohne Montage mit Übernachtung.",
+  "cta": "Job-Angebot in 60 Sekunden erhalten"
+ },
+ {
+  "logo": "logo-hd.png",
+  "primary": "#20333A",
+  "headline": [
+   "Straßenbauer",
+   "(m/w/d)"
+  ],
+  "name": "V02-wir-suchen",
+  "format": "9x16",
+  "foto": "raw/titel.jpg",
+  "zoom_9x16": 1.0,
+  "fokus_9x16": [
+   0.45,
+   0.5
+  ],
+  "kicker": "JEVER (26441)",
+  "cta": "Job-Angebot in 60 Sek. erhalten"
+ }
+]

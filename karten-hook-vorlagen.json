@@ -1,0 +1,22 @@
+{
+ "name": "V01-karten-hook",
+ "logo": "logo-hd.png",
+ "foto": "raw/s3.jpg",
+ "fokus": [
+  0.5,
+  0.4
+ ],
+ "karte": "img/karte-osm.jpg",
+ "osm_credit": false,
+ "primary": "#20333A",
+ "headline": [
+  "STRASSEN-",
+  "BAUER"
+ ],
+ "headline_zusatz": "(m/w/d)",
+ "pill": [
+  "Ohne Lebenslauf &",
+  "Anschreiben!"
+ ],
+ "ort": "Jever & Umgebung"
+}

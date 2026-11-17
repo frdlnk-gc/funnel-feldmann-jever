@@ -1,0 +1,36 @@
+{
+ "firma": "Feldmann",
+ "p": "#20333A",
+ "stelle": "Straßenbauer (m/w/d)",
+ "ort": "Jever",
+ "umg": "Jever · Schortens · Wilhelmshaven",
+ "zentrum": [
+  53.5832862,
+  7.8998555
+ ],
+ "logo": "logo-hd.png",
+ "frage": "Keine Lust mehr auf Montage?",
+ "frage_sub": "Bei Feldmann gibt es keine Montageeinsätze mit Übernachtung – du bist abends zu Hause. Dazu: kurzer Freitag.",
+ "f_photo": [
+  "raw/s1-ohne-pfosten.jpg",
+  "50% 30%"
+ ],
+ "gruende": [
+  [
+   "Unbefristet",
+   "in Vollzeit"
+  ],
+  [
+   "Kurzer Freitag",
+   "plus Urlaubs- & Weihnachtsgeld"
+  ],
+  [
+   "Moderne Maschinen",
+   "und Baugeräte"
+  ]
+ ],
+ "g_photo": [
+  "raw/g1.jpg",
+  "50% 60%"
+ ]
+}
