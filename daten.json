@@ -1,0 +1,131 @@
+{
+ "firma": "Feldmann",
+ "firma_genitiv": "von Feldmann aus Jever",
+ "stelle": "Straßenbauer (m/w/d)",
+ "ort": "Jever",
+ "plz": "26441",
+ "branche": "strassen_tiefbau",
+ "stelle_id": 1474,
+ "farbe_primary": "#20333A",
+ "farbe_secondary": "#EB5C24",
+ "region_badge": "Jever & Umgebung",
+ "benefit_top": "Kurzer Freitag & keine Montage",
+ "benefits": [
+  "Unbefristeter Arbeitsvertrag in Vollzeit",
+  "Kurzer Freitag",
+  "Keine Montageeinsätze mit Übernachtung",
+  "Urlaubsgeld & Weihnachtsgeld",
+  "Betriebliche Altersvorsorge & Sonderkonditionen bei Versicherungen",
+  "Jobrad-Leasing",
+  "Kostenübernahme für berufliche Zertifizierungen",
+  "Interne Karrierechancen",
+  "Hilfe bei der Wohnungssuche",
+  "Flache Hierarchien & freundliches Arbeitsklima",
+  "Betriebsausflüge, Mitarbeiter-Events & regelmäßige Firmenfeiern"
+ ],
+ "aufgaben": [
+  "Du stellst Straßen, Wege und Pflasterflächen her und setzt sie instand",
+  "Du baust verschiedene Baustoffe ein und verarbeitest sie",
+  "Du setzt Bordsteine, Rinnen und Entwässerungssysteme",
+  "Du führst Erd- und Tiefbauarbeiten durch",
+  "Du bedienst moderne Maschinen und Baugeräte",
+  "Du arbeitest nach Plan und sorgst für eine fachgerechte Ausführung – im Baustellenteam"
+ ],
+ "anforderung": "Eine abgeschlossene Ausbildung als Straßenbauer (m/w/d) oder eine vergleichbare Qualifikation, handwerkliches Geschick und technisches Verständnis sowie Führerschein Klasse B (BE von Vorteil). Berufserfahrung ist wünschenswert, aber kein Muss.",
+ "fachrichtungen_frage": "Was ist dein beruflicher Hintergrund?",
+ "fachrichtungen": [
+  {
+   "label": "Straßenbau / Tiefbau",
+   "icon": "🚧",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Vorarbeiter / Polier / Meister",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahrung ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Baubereich",
+   "icon": "🏗️",
+   "qualifikationen": [
+    {
+     "label": "Ausgelernt / Geselle",
+     "icon": "🎓"
+    },
+    {
+     "label": "Vorarbeiter / Polier / Meister",
+     "icon": "🏅"
+    },
+    {
+     "label": "Erfahrung ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  },
+  {
+   "label": "Anderer Bereich",
+   "icon": "🔄",
+   "qualifikationen": [
+    {
+     "label": "Ausbildung in anderem Beruf",
+     "icon": "📘"
+    },
+    {
+     "label": "Meister / Techniker",
+     "icon": "🏅"
+    },
+    {
+     "label": "Praxis ohne Ausbildung",
+     "icon": "💪"
+    }
+   ]
+  }
+ ],
+ "ueber": {
+  "fakten": [
+   {
+    "zahl": "1979",
+    "label": "gegründet"
+   },
+   {
+    "zahl": "43",
+    "label": "Mitarbeiter"
+   },
+   {
+    "zahl": "✓",
+    "label": "Regional verwurzelt"
+   }
+  ],
+  "text": "Die FELDMANN GmbH & Co. KG aus Jever ist ein regional verwurzeltes Unternehmen und steht für zuverlässige Arbeit, hochwertige Ausführung und ein starkes Team. Ob Straßen, Wege oder Erschließungsmaßnahmen – gemeinsam schafft das Team Infrastruktur, die bleibt."
+ },
+ "kunde_tab": "59 Feldmann Jever",
+ "quelle": "https://feldmann-jever.green-careers.de",
+ "logo": "logo.png",
+ "karte": {
+  "bild": "img/karte.jpg",
+  "label": "Jever (26441)"
+ },
+ "hero_bild": "img/hero-fertiger-feldmann.jpg",
+ "bilder": [
+  "img/f1-fraese-kreuzung.jpg",
+  "img/f2-baugrube-messlatte.jpg",
+  "img/f3-bagger-rohre.jpg",
+  "img/f4-ruettelplatte.jpg",
+  "img/f5-fertiger-team.jpg",
+  "img/f6-graben-hauswand.jpg",
+  "img/f7-minibagger.jpg",
+  "img/f8-baustelle-luftbild.jpg",
+  "img/f11-firmenfeier.jpg"
+ ],
+ "meta_geo": [
+  "Am Hillernsen Hamm 81, 26441 Jever"
+ ]
+}
